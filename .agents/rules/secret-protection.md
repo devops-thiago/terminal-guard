@@ -1,0 +1,1 @@
+../../.ai/rules/secret-protection.md
