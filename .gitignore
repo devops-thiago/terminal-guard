@@ -1,0 +1,13 @@
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.jks
+*.keystore
+*.credentials
+**/application-secret*.yml
+**/application-secret*.properties
+.secrets.baseline
